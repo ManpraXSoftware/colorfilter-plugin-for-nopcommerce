@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Color Filter",
+  "SystemName": "Widgets.ColorFilter",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "Manprax Software LLP",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.ColorFilter.dll",
+  "Description": "This plugin enables of filter by color In Catalog details and Product details Page"
+}
