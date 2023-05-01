@@ -14,9 +14,7 @@ Documentation
        
            https://user-images.githubusercontent.com/109781022/235456775-86da24af-aeb4-4b52-8efd-5b26259038d3.png
 
-       
-       
-        2. Specification attributes -> Add attribute -> 'add values for Color attribute')
+2. Specification attributes -> Add attribute -> 'add values for Color attribute')
   ***(For Example : If there is Red colored Product,Add Red Value to Specification attribute)***
 
 **NOTE** :  If specification attribute didn't contain Red value, then there would be option to add Specification values
