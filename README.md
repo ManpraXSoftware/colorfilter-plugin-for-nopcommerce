@@ -12,7 +12,7 @@ Documentation
   ***Steps :***
        1. Admin -> Catalog -> Products -> 'Search Product' -> Edit 
        
-           ( ![Screenshot (307)](https://user-images.githubusercontent.com/109781022/235456775-86da24af-aeb4-4b52-8efd-5b26259038d3.png))s
+           https://user-images.githubusercontent.com/109781022/235456775-86da24af-aeb4-4b52-8efd-5b26259038d3.png
 
        
        
