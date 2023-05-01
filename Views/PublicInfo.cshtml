@@ -1,0 +1,8 @@
+﻿@model CatalogProductsModel
+
+@if (!string.IsNullOrEmpty(Model.WarningMessage))
+{
+    <div class="warning">
+        @Model.WarningMessage
+    </div>
+}
