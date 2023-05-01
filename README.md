@@ -2,19 +2,11 @@
 
 Version
 -------
-
 NopCommerce Supported version - 4.60
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 Documentation
 -------------
-
-
-
-
 Please ensure that,
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1.Specification Attribute is added for each Product in the Admin.
   (Admin -> Catalog -> Products -> 'Search Product' -> Edit ->Specification attributes -> Add attribute -> 'add values for Color attribute')
