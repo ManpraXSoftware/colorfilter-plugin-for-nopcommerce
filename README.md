@@ -9,7 +9,12 @@ Documentation
 ##### Please ensure that,
 
 **1. Specification Attribute** is added for each Product in the Admin.
-  (Admin -> Catalog -> Products -> 'Search Product' -> Edit ->Specification attributes -> Add attribute -> 'add values for Color attribute')
+  ***Steps :
+       1. Admin -> Catalog -> Products -> 'Search Product' -> Edit 
+       
+       ![Screenshot (307)](https://user-images.githubusercontent.com/109781022/235456302-27dfc449-957c-4e02-89d9-a37afaea1ebf.png)
+       
+       2. Specification attributes -> Add attribute -> 'add values for Color attribute')
   (For Example : If there is Red colored Product,Add Red Value to Specification attribute)
 
 **NOTE** :  If specification attribute didn't contain Red value, then there would be option to add Specification values
