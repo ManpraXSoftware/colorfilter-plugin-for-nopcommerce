@@ -1,4 +1,7 @@
 # colorfilter-plugin-for-nopcommerce
+
+NopCommerce Supported version - 4.60
+
 Please ensure that,
 
 1.Specification Attribute is added for each Product in the Admin.
