@@ -20,7 +20,9 @@ Documentation
  
 **2. Product Attribute**(color attribute) added for every color of Product
   (Admin -> Catalog -> Products -> 'Search Product' -> Edit -> Product attributes ->
+  
    *If Color attribute not added =>  Add a new attribute -> Choose Attribute 'Color' -> Save ->then follow the step below
+   
    *If there is Color Attribute  =>  Edit -> Add Values -> Save
 
  **NOTE** : Don't forget to select Picture for particular color and also the Attribute Value name should be same to Specification attribute name)
